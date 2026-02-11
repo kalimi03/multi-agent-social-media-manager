@@ -156,8 +156,8 @@ What's your biggest AI challenge? 👇
 ## 🔄 Version History
 
 - **v1.0** - Initial release with three-agent system
-- **v2.0** - Added Stable Diffusion image generation
-- **v2.1** - Gradio UI implementation
+- **v2.0** - Gradio UI implementation
+- **v2.1** - Added Stable Diffusion image generation
 
 ## 🎓 Use Cases
 
