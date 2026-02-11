@@ -153,6 +153,11 @@ What's your biggest AI challenge? 👇
 
 [AI-Generated Image: Futuristic office with AI interfaces]
 ```
+🔄 Version History
+
+v1.0 - Initial release with three-agent system
+v2.0 - Added Stable Diffusion image generation
+v2.1 - Gradio UI implementation
 
 ## 🎓 Use Cases
 
