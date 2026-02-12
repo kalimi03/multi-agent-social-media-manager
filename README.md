@@ -180,6 +180,11 @@ Contributions welcome! Ideas:
 - Custom image styles/themes
 - Integration with social media APIs for direct posting
 
+## Result screen shots
+<img width="1667" height="872" alt="sampel_result_2" src="https://github.com/user-attachments/assets/b7f00e5b-e74e-4ec2-b82f-23599a9493a8" />
+
+<img width="1883" height="858" alt="sampel_result_3" src="https://github.com/user-attachments/assets/e46a7850-7f65-4aa0-85fd-4a8578e63626" />
+
 ## 📚 Resources
 
 - [CrewAI Docs](https://docs.crewai.com/)
